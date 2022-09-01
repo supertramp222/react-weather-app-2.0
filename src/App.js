@@ -11,7 +11,8 @@ export default function App() {
           This project is created by Katharina Ramer. It is open-sourced. {""}
           <a
             href="https://github.com/supertramp222/react-weather-app-2.0"
-            target="_blanl"
+            target="_blank"
+            rel="noopener noreferrer"
           >
             View on GiHub
           </a>
